@@ -1,12 +1,27 @@
-# 🚀 FastAdmin
+<h1 align="center">🚀 FastAdmin</h1>
 
 <p align="center">
-  <strong>A dynamic, plug-and-play admin panel for FastAPI applications.</strong>
+  <strong>Plug-and-Play Admin Framework for FastAPI Applications</strong><br>
+  Automatic CRUD Generation • Dynamic React Dashboard • SQLAlchemy Metadata Scanner • RBAC • JWT Authentication
 </p>
 
 <p align="center">
-Generate a complete Admin Dashboard automatically from your SQLAlchemy models.<br>
-No boilerplate. No repetitive CRUD code. Just plug, scan, and manage.
+
+<img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/SQLAlchemy-2.0-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+<img src="https://img.shields.io/badge/Pydantic-v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+<img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge" alt="MIT License">
+
+</p>
+
+<p align="center">
+  <strong>Automatically generate a production-ready Admin Panel from your SQLAlchemy models.</strong><br>
+  No Boilerplate • No Manual CRUD • Just Plug, Scan & Manage ⚡
 </p>
 
 ---
